@@ -120,11 +120,12 @@ label= "BASE"                              ;
 //                &mt LGUI A  &mt LALT R  &mt LCTRL S &mt LSHFT T &kp D           &kp H       &mt RSHFT N &mt RCTRL E &mt RALT I  &mt RGUI O
 //    &kp Q       &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp BSLH
 //                                        &kp DEL   &lt NAV TAB   &kp SPACE       &kp RET   &lt SYM ESC   &kp BSPC
-                  &kp X         &kp J      &kp O         &kp V        &kp Z             &kp MINUS    &kp G        &kp C         &kp L          &kp Y 
-                  &am LCTRL H   &am LGUI A    &am LALT E    &as LSHFT I   &kp U             &kp D          &as RSHFT T   &am RALT R   &am RGUI N    &am RCTRL S
-      &kp Q       &kp K         &kp Q         &kp SQT        &kp LBKT       &kp SEMI         &kp B          &kp P        &kp W           &kp M       &kp F    &kp BSLH
+                &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp P
+                &am LCTRL A   &am LGUI S    &am LALT D    &as LSHFT F   &kp G             &kp H         &as RSHFT J   &am RALT K   &am RGUI L    &am RCTRL SEMI
+    &kp Q       &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp BSLHsssssss
                                         &kp ESC       &kp TAB       &lt SYM SPACE &lt NAV RET   &lt MET BSPC  &kp DEL
-                                               
+                                        
+     &kp SQT        &kp LBKT       &kp SEMI                                           
                         >;
                 };
 
